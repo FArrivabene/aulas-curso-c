@@ -1,0 +1,3 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-06-Grupo02\obj\Debug\Exerc-06-Grupo02.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-06-Grupo02\obj\Debug\Exerc-06-Grupo02.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-06-Grupo02\obj\Debug\Exerc-06-Grupo02.csproj.CoreCompileInputs.cache

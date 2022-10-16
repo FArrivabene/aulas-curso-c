@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\bin\Debug\Loop-For.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\bin\Debug\Loop-For.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\bin\Debug\Loop-For.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\obj\Debug\Exerc-03-Grupo02.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\obj\Debug\Exerc-03-Grupo02.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\obj\Debug\Exerc-03-Grupo02.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\obj\Debug\Loop-For.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loop-For\obj\Debug\Loop-For.pdb

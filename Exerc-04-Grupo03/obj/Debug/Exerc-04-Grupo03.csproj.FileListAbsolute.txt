@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\bin\Debug\Exerc-04-Grupo03.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\bin\Debug\Exerc-04-Grupo03.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\bin\Debug\Exerc-04-Grupo03.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\obj\Debug\Exerc-04-Grupo03.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\obj\Debug\Exerc-04-Grupo03.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\obj\Debug\Exerc-04-Grupo03.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\obj\Debug\Exerc-04-Grupo03.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-04-Grupo03\obj\Debug\Exerc-04-Grupo03.pdb

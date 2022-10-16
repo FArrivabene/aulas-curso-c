@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\bin\Debug\Loops-While-Do-While.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\bin\Debug\Loops-While-Do-While.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\bin\Debug\Loops-While-Do-While.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\obj\Debug\Loops-While-Do-While.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\obj\Debug\Loops-While-Do-While.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\obj\Debug\Loops-While-Do-While.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\obj\Debug\Loops-While-Do-While.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Loops-While-Do-While\obj\Debug\Loops-While-Do-While.pdb

@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\bin\Debug\Operadores-Incrementos-Decrementos.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\bin\Debug\Operadores-Incrementos-Decrementos.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\bin\Debug\Operadores-Incrementos-Decrementos.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\obj\Debug\Operadores-Incrementos-Decrementos.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\obj\Debug\Operadores-Incrementos-Decrementos.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\obj\Debug\Operadores-Incrementos-Decrementos.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\obj\Debug\Operadores-Incrementos-Decrementos.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Operadores-Incrementos-Decrementos\obj\Debug\Operadores-Incrementos-Decrementos.pdb

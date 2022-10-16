@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\bin\Debug\Exerc-11-Grupo02-Prof.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\bin\Debug\Exerc-11-Grupo02-Prof.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\bin\Debug\Exerc-11-Grupo02-Prof.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\obj\Debug\Exerc-11-Grupo02-Prof.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\obj\Debug\Exerc-11-Grupo02-Prof.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\obj\Debug\Exerc-11-Grupo02-Prof.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\obj\Debug\Exerc-11-Grupo02-Prof.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-11-Grupo02-Prof\obj\Debug\Exerc-11-Grupo02-Prof.pdb

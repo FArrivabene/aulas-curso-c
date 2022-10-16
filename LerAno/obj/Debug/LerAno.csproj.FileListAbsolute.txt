@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\bin\Debug\LerAno.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\bin\Debug\LerAno.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\bin\Debug\LerAno.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\obj\Debug\LerAno.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\obj\Debug\LerAno.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\obj\Debug\LerAno.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\obj\Debug\LerAno.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\LerAno\obj\Debug\LerAno.pdb

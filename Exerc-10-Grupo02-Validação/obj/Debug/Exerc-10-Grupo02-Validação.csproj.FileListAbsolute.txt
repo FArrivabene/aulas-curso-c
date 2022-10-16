@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\bin\Debug\Exerc-10-Grupo02-Validação.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\bin\Debug\Exerc-10-Grupo02-Validação.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\bin\Debug\Exerc-10-Grupo02-Validação.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\obj\Debug\Exerc-10-Grupo02-Validação.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\obj\Debug\Exerc-10-Grupo02-Validação.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\obj\Debug\Exerc-10-Grupo02-Validação.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\obj\Debug\Exerc-10-Grupo02-Validação.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-10-Grupo02-Validação\obj\Debug\Exerc-10-Grupo02-Validação.pdb

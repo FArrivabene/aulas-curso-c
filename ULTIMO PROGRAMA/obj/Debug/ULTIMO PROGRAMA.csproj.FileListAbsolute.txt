@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\bin\Debug\ULTIMO PROGRAMA.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\bin\Debug\ULTIMO PROGRAMA.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\bin\Debug\ULTIMO PROGRAMA.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\obj\Debug\ULTIMO PROGRAMA.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\obj\Debug\ULTIMO PROGRAMA.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\obj\Debug\ULTIMO PROGRAMA.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\obj\Debug\ULTIMO PROGRAMA.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\ULTIMO PROGRAMA\obj\Debug\ULTIMO PROGRAMA.pdb

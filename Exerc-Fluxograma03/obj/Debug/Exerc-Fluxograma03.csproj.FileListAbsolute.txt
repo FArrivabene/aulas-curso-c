@@ -1,0 +1,8 @@
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\bin\Debug\Exerc-Fluxograma03.exe.config
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\bin\Debug\Exerc-Fluxograma03.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\bin\Debug\Exerc-Fluxograma03.pdb
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\obj\Debug\Exerc-Fluxograma03.csproj.AssemblyReference.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\obj\Debug\Exerc-Fluxograma03.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\obj\Debug\Exerc-Fluxograma03.csproj.CoreCompileInputs.cache
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\obj\Debug\Exerc-Fluxograma03.exe
+E:\arriv\App02 - Incrementos\Operadores-Incrementos-Decrementos\Exerc-Fluxograma03\obj\Debug\Exerc-Fluxograma03.pdb
